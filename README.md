@@ -16,7 +16,7 @@ Usage
 Use [git submodule](http://git-scm.com/book/en/Git-Tools-Submodules) if you want to add this repository to your project. It could be useful if you want your project to have the latest information about the cities which are using the [GeoReport v2 API](http://wiki.open311.org/GeoReport_v2). 
 
  + `git submodule add https://github.com/SantiMunin/GeoReportv2-endpoints.git servers`
- + Load the file servers/cities.json in your library at build/run time.
+ + Load the file servers/cities.json in your library at build time.
 
 ### Network call
 
