@@ -1,129 +1,161 @@
 [
   {
+    "id" : "QUEBEC",
     "city" : "Quebec, QC",
     "service_discovery" : "http://api.ville.quebec.qc.ca/discovery.xml"
   },
   {
+    "id" : "BONN",
     "city" : "Bonn, Germany",
     "service_discovery" : "http://anliegen.bonn.de/georeport/v2/discovery.xml"
   },
   {
+    "id" : "SAN_FRANCISCO",
     "city" : "San Francisco, CA",
     "service_discovery" : "https://open311.sfgov.org/dev/v2/discovery.xml"
   },
   {
+    "id" : "WASHINGTON",
     "city" : "Washington D.C.",
     "service_discovery" : "http://app.311.dc.gov/cwi/Open311/discovery.xml"
   },
   {
+    "id" : "BOSTON",
     "city" : "Boston, MA",
     "service_discovery" : "https://mayors24.cityofboston.gov/open311/discovery.xml"
   },
   {
+    "id" : "BALTIMORE",
     "city" : "Baltimore, MD",
     "service_discovery" : "http://311.baltimorecity.gov/open311/discovery.xml"
   },
   {
+    "id" : "GRAND_RAPIDS",
     "city" : "Grand Rapids, MI",
     "service_discovery" : "http://grcity.spotreporters.com/open311/discovery.xml"
   },
   {
+    "id" : "BROOKLINE",
     "city" : "Brookline, MA",
     "service_discovery" : "http://spot.brooklinema.gov/open311/discovery.xml"
   },
   {
+    "id" : "TORONTO",
     "city" : "Toronto, ON",
     "service_discovery" : "https://secure.toronto.ca/open311test/discovery.xml"
   },
   {
+    "id" : "BLOOMINGTON",
     "city" : "Bloomington, IN",
     "service_discovery" : "https://bloomington.in.gov/crm/open311/discovery.xml"
   },
   {
+    "id" : "CHICAGO",
     "city" : "Chicago, IL",
     "service_discovery" : "http://311api.cityofchicago.org/open311/discovery.xml"
   },
   {
+    "id" : "ALPHARETTA",
     "city" : "City of Alpharetta, GA",
     "service_discovery" : "http://seeclickfix.com/alpharetta/open311/discovery.xml"
   },
   {
+    "id" : "BAINBRIDGE_ISLAND",
     "city" : "Bainbridge Island, WA",
     "service_discovery" : "http://seeclickfix.com/bainbridge-island/open311/discovery.xml"
   },
   {
+    "id" : "CORONA",
     "city" : "City of Corona, CA",
     "service_discovery" : "http://seeclickfix.com/corona/open311/discovery.xml"
   },
   {
+    "id" : "DELEON",
     "city" : "City of DeLeon, TX",
     "service_discovery" : "http://seeclickfix.com/de-leon/open311/discovery.xml"
   },
   {
+    "id" : "DUNWOODY",
     "city" : "City of Dunwoody, GA",
     "service_discovery" : "http://seeclickfix.com/dunwoody_ga/open311/discovery.xml"
   },
   {
+    "id" : "HUNTSVILLE",
     "city" : "City of Huntsville, AL",
     "service_discovery" : "http://seeclickfix.com/huntsville/open311/discovery.xml"
   },
   {
+    "id" : "NEWBERG",
     "city" : "City of Newberg, OR",
     "service_discovery" : "http://seeclickfix.com/newberg/open311/discovery.xml"
   },
   {
+    "id" : "NEW_HAVEN",
     "city" : "City of New Haven, CT",
     "service_discovery" : "http://seeclickfix.com/new-haven/open311/discovery.xml"
   },
   {
+    "id" : "RICHMOND",
     "city" : "City of Richmond",
     "service_discovery" : "http://seeclickfix.com/richmond/open311/discovery.xml"
   },
   {
+    "id" : "RUSSELL_SPRINGS",
     "city" : "City of Russell Springs, KY",
     "service_discovery" : "http://seeclickfix.com/russell-springs/open311/discovery.xml"
   },
   {
+    "id" : "TUCSON",
     "city" : "City of Tucson, AZ",
     "service_discovery" : "http://seeclickfix.com/tucson/open311/discovery.xml"
   },
   {
+    "id" : "DARWIN",
     "city" : "Darwin, Australia",
     "service_discovery" : "http://seeclickfix.com/aus_darwin/open311/discovery.xml"
   },
   {
+    "id" : "FONTANA",
     "city" : "Fontana City Hall",
     "service_discovery" : "http://seeclickfix.com/fontana/open311/discovery.xml"
   },
   {
+    "id" : "HOWARD",
     "city" : "Howard County Department of Public Works, MD",
     "service_discovery" : "http://seeclickfix.com/md_howard-county/open311/discovery.xml"
   },
   {
+    "id" : "MANOR",
     "city" : "Manor, TX",
     "service_discovery" : "http://seeclickfix.com/manor/open311/discovery.xml"
   },
   {
+    "id" : "NEWARK",
     "city" : "Newark, OH",
     "service_discovery" : "http://seeclickfix.com/newark_2/open311/discovery.xml"
   },
   {
+    "id" : "NEWNAN",
     "city" : "Newnan, GA",
     "service_discovery" : "http://seeclickfix.com/newnan/open311/discovery.xml"
   },
   {
+    "id" : "OLATHE",
     "city" : "Olathe, KS",
     "service_discovery" : "http://seeclickfix.com/olathe/open311/discovery.xml"
   },
   {
+    "id" : "RALEIGH",
     "city" : "Raleigh City Hall, NC",
     "service_discovery" : "http://seeclickfix.com/raleigh/open311/discovery.xml"
   },
   {
+    "id" : "ROOSEVELT",
     "city" : "Roosevelt Island, NY",
     "service_discovery" : "http://seeclickfix.com/roosevelt-island/open311/discovery.xml"
   },
   {
+    "id" : "HILLSBOROUGH",
     "city" : "Town of Hillsborough, CA",
     "service_discovery" : "http://seeclickfix.com/hillsborough/open311/discovery.xml"
   }
