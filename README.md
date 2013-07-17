@@ -1,7 +1,7 @@
 GeoReport v2 API servers
 =====================
 
-A relationship between cities and their service discovery urls.
+A relationship between cities and their [service discovery](http://wiki.open311.org/Service_Discovery) urls.
 
 More info:
  + [Open311](http://open311.org/)
@@ -22,6 +22,27 @@ Use [git submodule](http://git-scm.com/book/en/Git-Tools-Submodules) if you want
 
  + Download the [file](https://raw.github.com/SantiMunin/GeoReportv2-endpoints/master/cities.json): `wget https://raw.github.com/SantiMunin/GeoReportv2-endpoints/master/cities.json`
  + Load the file servers/cities.json in your library at build/run time.
+
+
+Explanation
+-----------------
+
+The `cities.json` file contains a json array of objects with three fields:
+
+```js
+[
+ {
+    "id" : "SAN_FRANCISCO",
+    "city" : "San Francisco, CA",
+    "service_discovery" : "https://open311.sfgov.org/dev/v2/discovery.xml"
+  },
+  ...
+]
+```
+####Fields
+ + `id`: City's unique identifier.
+ + `city`: City's name.
+ + `service_discovery`: Url of the [service discovery](http://wiki.open311.org/Service_Discovery) file.
 
 Collaborate
 -----------------
