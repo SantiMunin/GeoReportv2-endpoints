@@ -8,8 +8,17 @@ More info:
  + [Open311 GeoReport v2 API](http://wiki.open311.org/GeoReport_v2)
  + [Open311 GeoReport v2 API servers](http://wiki.open311.org/GeoReport_v2/Servers)
 
-Usage
------------------
+## Usage
+
+### Build time
+
+ + [Git submodule](README.md#git-submodule)
+ + [Network call](README.md#network-call)
+
+### Run time
+ + [Network call](README.md#network-call)
+
+## Explanation
 
 ### Git submodule
 
@@ -24,9 +33,7 @@ Git submodule could not fit for you (maybe you are not using git), in that case 
 
 Download the [file](https://raw.github.com/SantiMunin/GeoReportv2-endpoints/master/cities.json): `wget https://raw.github.com/SantiMunin/GeoReportv2-endpoints/master/cities.json` and load it at build/run time.
 
-
-Explanation
------------------
+### File content
 
 The `cities.json` file contains a json array of objects with three fields:
 
