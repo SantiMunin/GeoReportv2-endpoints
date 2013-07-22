@@ -42,7 +42,8 @@ The `cities.json` file contains a json array of objects with three fields:
  {
     "id" : "SAN_FRANCISCO",
     "city" : "San Francisco, CA",
-    "service_discovery" : "https://open311.sfgov.org/dev/v2/discovery.xml"
+    "service_discovery" : "https://open311.sfgov.org/dev/v2/discovery.xml",
+    "jurisdiction_id" : "sfgov.org"
   },
   ...
 ]
@@ -51,6 +52,7 @@ The `cities.json` file contains a json array of objects with three fields:
  + `id`: City's unique identifier.
  + `city`: City's name.
  + `service_discovery`: Url of the [service discovery](http://wiki.open311.org/Service_Discovery) file.
+ + `jurisdiction_id`: [jurisdiction_id](http://wiki.open311.org/GeoReport_v2#jurisdiction_id) parameter.
 
 Collaborate
 -----------------
